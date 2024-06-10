@@ -24,11 +24,11 @@
 ### 🔭 Principais tecnologias
  Tecnologia   | Tempo de experiência
 ------------- | ---------------------
-React JS      | 4 anos
-java          | 5 anos
-Ruby on Rails | 4 anos
+React JS      | 5 anos
+java          | 8 anos
+Ruby on Rails | 6 anos
 Elixir        | 1 ano
-SQL           | 6 anos
+SQL           | 10 anos
 
 
 ⚡ Adoro o trabalho em equipe, acredito que a vida seja uma constante troca de experiências, juntos podemos chegar mais longe.
