@@ -27,7 +27,7 @@
 React JS      | 5 anos
 java          | 8 anos
 Ruby on Rails | 6 anos
-Elixir        | 1 ano
+Elixir        | 2 ano
 SQL           | 10 anos
 
 
